@@ -1,6 +1,8 @@
 # Zig Scratchpad
 [Zig](https://ziglang.org/) is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
 
+<img width="80px" src="docs/ziglang-logo.png">
+
 Exploring basic Zig concepts here.
 
 ### Fibonacci
